@@ -1,3 +1,5 @@
+https://linuxhint.com/compile-linux-kernel-centos7/ => total completed
+
 Centos Kernel編譯rpm包
 2022-01-29 雲計算基礎架構
 參考：https://wiki.centos.org/HowTos/RebuildSRPM
